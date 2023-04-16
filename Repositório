@@ -1,0 +1,39 @@
+<!DOCTYPE html> 
+<html lang=''pt-br''>
+<head>
+  <meta charset=''UTF8''>
+  <meta name=''viewport'' content= Width=device-width, initial-scale 1.0''>
+  <title> Repostório Millena Raíssa </title>
+  <style>
+    body {
+        background-color: lightgrey;
+    }
+     h1{ color: white;
+        font-family: Arial, Helvetica, sans-serif;
+        background-color: blueviolet;}
+     p { 
+         font-family: Arial, Helvetica, sans-serif;
+         text-align: justify;
+         font-size: 20px;
+
+     }
+  </style>
+</head>
+<body> 
+  <h1> Millena Raíssa </h1> <br>
+  <p> <b>Me chamo Millena Raíssa e quero mostrar a minha trajetória até o presente momento.</b><br><br>
+  Nasci e cresci em Paulínia, uma cidade do interior de São Paulo. Desde muito nova sempre me interresei muito 
+  por tecnologia, pois me lembro de ficar horas e horas em frente a Tv e amava ir a lan house com minha mãe, ficar vendo as pessoas jogando 
+  jogos e acessando sites nos computadores e pensava comigo, um dia serei como vocês. <br><br>
+  Aos dez anos de idade, meus pais compraram um computador, foi um dos dias mais felizes da minha vida, com isso comecei a jogar vários jogos online e me apaixonando
+  aos poucos pela computação. <br><br>
+  Mas a virada de chave veio mesmo aos dezesseis anos, quano conheci o Python e comecei a codar, ali eu percebi que seria a computção a profissao que me faria 
+  muito feliz, mesmo tendo que ficar noites acordada, acordar cedo, ter dores de cabeça, seria muito satizfatório fazer tudo isso.<br>
+  Fiz um curso técncico em química, pois acredito que sem tecnologia e química o mundo seria outro e estaríamos descobrindo a navegação ainda. Porque, a química 
+  estuda as transformações da natureza e a tecnologia torna essas transformações mais rápidas e acessíveis para todos.<br>
+  Então, eu optei por cursar ciência da computação e assim, poder fazer o que amo e poder tornar o mundo um lugar um pouco melhor para a sociedade.<br> 
+  </p> 
+</body>
+</html>
+  
+  
